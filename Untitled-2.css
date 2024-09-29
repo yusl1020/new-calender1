@@ -1,0 +1,20 @@
+/* Style your calendar here */
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+}
+
+section {
+  flex: 1;
+  padding: 20px;
+}
+
+/* Add more styles as needed */
